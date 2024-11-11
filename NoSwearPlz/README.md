@@ -45,6 +45,9 @@ This will also handle words split by spaces or words with special charactes.
 
 
 ## Changelog
+- 1.3.2:
+  - NoSwearPlz not uses PlzLib & is required
+  - Moved NoSwearPlz folder to /PlzSuite/NoSwearPlz
 - 1.3.1:
   - Replaced default words.txt file with a shorter one (delete old for new one to appear)
   - Fixed many false positive (thanks to the new words.txt file)
